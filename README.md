@@ -69,7 +69,7 @@ dapat digunakan untuk melakukan prediksi gaji, di mana:
 
 ## 🚀 Cara Menjalankan
 
-### Menjalankan apk
+### Menjalankan 
 ```bash
 git clone https://github.com/LordDarkness99/prediksi-linear-project.git
 cd prediksi-linear-project
