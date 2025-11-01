@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+*.joblib
+*.csv
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
